@@ -1,0 +1,2 @@
+# Analysis-of-Portugese-banking-dataset
+Analysed portugese banking dataset with exploratory and predictive analysis.Learned by attending IBM masterclass ,how to use AIX360 &amp; Lale. The AI Explainability 360 toolkit is an open-source library that supports interpretability and explainability of datasets and machine learning models.Lale is a Python library for semi-automated data science. Lale makes it easy to automatically select algorithms and tune hyperparameters of pipelines.
